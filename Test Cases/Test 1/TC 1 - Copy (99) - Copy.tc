@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>description  dcsdscd</description>
+   <name>TC 1 - Copy (99) - Copy</name>
+   <tag>story-test,account-setting,ui,p3</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>44b14e3d-6a67-490d-86c0-6df40f7adbbd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4b4794d9-3357-47ae-ac8e-6063c98b8eed</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bddb36da-0dfb-4c89-aa3b-3b8f84d74fd4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ff06f957-98cb-4fe8-897a-f8d3612ce373</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c859a4c-6266-44fc-b6a0-88536706794f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d00797bc-4efb-4143-ad2f-ddd21c77d74c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test AC ST01341'</defaultValue>
+      <description></description>
+      <id>4b4794d9-3357-47ae-ac8e-6063c98b8eed</id>
+      <masked>false</masked>
+      <name>accountName</name>
+   </variable>
+   <variable>
+      <defaultValue>'qeautomationkatalon+ST01341@gmail.com'</defaultValue>
+      <description></description>
+      <id>bddb36da-0dfb-4c89-aa3b-3b8f84d74fd4</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.owner_pass</defaultValue>
+      <description></description>
+      <id>ff06f957-98cb-4fe8-897a-f8d3612ce373</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Org_ST01341'</defaultValue>
+      <description></description>
+      <id>4c859a4c-6266-44fc-b6a0-88536706794f</id>
+      <masked>false</masked>
+      <name>organizationName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Prj_ST01341'</defaultValue>
+      <description></description>
+      <id>d00797bc-4efb-4143-ad2f-ddd21c77d74c</id>
+      <masked>false</masked>
+      <name>projectName</name>
+   </variable>
+</TestCaseEntity>
