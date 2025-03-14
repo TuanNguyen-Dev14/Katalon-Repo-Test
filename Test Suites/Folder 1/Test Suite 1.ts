@@ -15,7 +15,7 @@
       <guid>288c3552-ea72-47f5-8db8-38a317c6a856</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Test/TC 1 - Copy (99)</testCaseId>
+      <testCaseId>Test Cases/Test 1/TC 1 - Copy (99)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -52,7 +52,7 @@
       <guid>c26e30dc-07f3-45d7-9155-ea139316b839</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Test 1/TC 1 - Copy (99) - Copy</testCaseId>
+      <testCaseId>Test Cases/Test 3/TC 1 - Copy (99) - Copy</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
