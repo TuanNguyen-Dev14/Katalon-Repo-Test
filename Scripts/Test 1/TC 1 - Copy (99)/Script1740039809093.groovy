@@ -23,3 +23,5 @@ WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 
 WebUI.closeBrowser()
 
+WebUI.acceptAlert()
+
