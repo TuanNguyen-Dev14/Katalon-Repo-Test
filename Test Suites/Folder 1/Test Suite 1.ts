@@ -12,40 +12,77 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>abcbb09a-677f-47ed-bc3e-a542003dca0e</testSuiteGuid>
    <testCaseLink>
-      <guid>16156b4f-c2fd-417c-b19f-bc0798e9509d</guid>
+      <guid>288c3552-ea72-47f5-8db8-38a317c6a856</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC 1</testCaseId>
+      <testCaseId>Test Cases/Test 1/TC 1 - Copy (99)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>e2b706c3-2666-455f-b957-bbabc58ee31d</variableId>
+         <variableId>55d0eaf8-9ad4-41c6-b304-5582bc27301a</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>5823e495-d627-4e97-8f54-15db3dc1be09</variableId>
+         <variableId>4db3704d-89f7-44aa-b09d-0998a65803a6</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>9e3d6651-917d-43b9-83f3-d98375526b75</variableId>
+         <variableId>5d25f50a-f84b-49e4-b13f-9d76b94be653</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>1af93a4a-cb31-426c-8d03-95abbee1cdca</variableId>
+         <variableId>fd2fbf4b-e203-4287-969a-dd37720e3fe8</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>93976fab-28b0-4cb1-b209-61eba0e3ece3</variableId>
+         <variableId>27f218b4-4108-428f-9800-d8666ab9e92c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c26e30dc-07f3-45d7-9155-ea139316b839</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test 1/TC 1 - Copy (99) - Copy</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4b4794d9-3357-47ae-ac8e-6063c98b8eed</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bddb36da-0dfb-4c89-aa3b-3b8f84d74fd4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ff06f957-98cb-4fe8-897a-f8d3612ce373</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4c859a4c-6266-44fc-b6a0-88536706794f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d00797bc-4efb-4143-ad2f-ddd21c77d74c</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
